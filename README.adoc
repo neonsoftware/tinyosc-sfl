@@ -1,0 +1,5 @@
+== tinyosc-sfl
+
+Single File Library (sfl - header only) version of https://github.com/neonsoftware/tinyosc[tinyosc], a minimal C library of OpenSoundControl(OSC).
+
+The script `import.sh` pulls the latest code from neoncomputing/tinyosc and compacts it into the `tinyosc-sfl.h` file, overwriting it.
