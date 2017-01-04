@@ -1,0 +1,6 @@
+language: c
+compiler:
+  - clang
+  - gcc
+script:
+  - cd test && make && ./test 
