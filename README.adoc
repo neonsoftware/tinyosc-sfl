@@ -1,3 +1,6 @@
+image:https://travis-ci.org/neonsoftware/tinyosc-sfl.svg?branch=master["Build Status", link="https://travis-ci.org/neonsoftware/tinyosc-sfl"]
+image:https://ci.appveyor.com/api/projects/status/gvi9lv9ifnfy9y64/branch/master?svg=true["Build Status", link="https://ci.appveyor.com/project/neonsoftware/tinyosc-sfl/branch/master"]
+
 == tinyosc-sfl
 
 Single File Library (sfl - header only) version of https://github.com/neonsoftware/tinyosc[tinyosc], a minimal C library of OpenSoundControl(OSC).
